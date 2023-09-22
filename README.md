@@ -1,2 +1,1 @@
-# icon-voting-dapp-app-library
-A simple voting DAPP using ICONex wallet, one vote per wallet, and the results are displayed on a webpage.
+c728bc6ea0da52376b4be13584010ebcbb5c4ca1
